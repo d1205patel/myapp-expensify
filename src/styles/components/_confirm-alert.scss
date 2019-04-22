@@ -1,0 +1,12 @@
+.confirm-alert {
+    background: #28bae6;
+    padding: $l-size;
+    box-shadow: 0 20px 75px rgba(0, 0, 0, 0.23);
+    color: white;
+    border-radius: 2px;
+}
+
+.confirm-alert__buttons {
+    display: flex;
+    justify-content: space-between;
+}
